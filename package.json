@@ -1,0 +1,25 @@
+{
+  "name": "mstart.css",
+  "version": "1.0.0",
+  "description": "project satrt base css file",
+  "main": "mstart.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thecatshidog/mstart.css.git"
+  },
+  "keywords": [
+    "mstart",
+    "css",
+    "normalize",
+    "reset"
+  ],
+  "author": "thecatshidog",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thecatshidog/mstart.css/issues"
+  },
+  "homepage": "https://github.com/thecatshidog/mstart.css#readme"
+}
